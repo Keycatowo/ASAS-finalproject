@@ -31,6 +31,7 @@ ASAS final project
 + 參數：
     + 是否要有程度標記？(如分數)
     + 還是要單純有無差別而已
+![](https://i.imgur.com/V3USW7s.png)
 
 ### Task4: 標注資料庫
 + 目的：記錄使用者標注聽感的結果
